@@ -1,0 +1,20 @@
+header{
+    background-color: yellow;
+    color: red;
+    text-align: center;
+    font-size: 25px;
+}
+
+.introduccion{
+    font-size: 15px;
+}
+
+#mi-lista1{
+    color: blue;
+    padding: 30px;
+}
+
+a{
+    color: red;
+    margin: 5px;
+}
